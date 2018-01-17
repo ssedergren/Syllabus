@@ -2,6 +2,12 @@
 
 ## Instructor: Patrick Sweeney
 
+### Assignments		Percentage of Grade
+Weekly reflection 	20 %
+Midterm				30 %
+Final				40 %
+Class participation	10 %
+
 ### Readings
 
 **Week 1**
